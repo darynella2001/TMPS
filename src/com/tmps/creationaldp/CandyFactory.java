@@ -1,6 +1,5 @@
 package com.tmps.creationaldp;
 
-import com.tmps.creationaldp.sweets.Lollipop;
 import com.tmps.creationaldp.sweets.Sweet;
 import com.tmps.creationaldp.sweets.builders.LollipopBuilder;
 import com.tmps.creationaldp.sweets.builders.GoldBearsBuilder;
