@@ -289,10 +289,25 @@ ISweet adaptedBlackTea = new BeverageAdapter(blackTea);
 ```
 ## Output
 * Chocolate with custom packaging
+
+![tmps lab2a](https://user-images.githubusercontent.com/56044286/140419476-7f35dd27-4121-4f99-a364-9876e9b655fb.png)
+
 * Chocolate with NO custom packaging
+
+![tmps lab2c](https://user-images.githubusercontent.com/56044286/140419498-9345bf7d-10f2-4de7-abf0-e4a2dcd9bf02.png)
+
 * Candies with custom packaging
+
+![tmps lab2b](https://user-images.githubusercontent.com/56044286/140419525-8325a3db-b131-45f0-9fda-7e16d4108bd7.png)
+
 * Chocolate with NO custom packaging
+
+![tmps lab2d](https://user-images.githubusercontent.com/56044286/140419551-94ed79ae-92c2-4163-a3e0-70ac3cc91790.png)
+
 * Beverages
+
+![tmps lab2e](https://user-images.githubusercontent.com/56044286/140419569-e994210c-6a31-4ad6-9c9b-4016b506206a.png)
+
 
 ## Conclusions
 After studying all the theory and putting it into practice in this laboratory work, 
