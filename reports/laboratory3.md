@@ -86,12 +86,14 @@ public class Context {
 ## Output
 Here you can see the output for different cases:
 * Chocolate with custom packaging and DiscountCard
+
 ![image](https://user-images.githubusercontent.com/56044286/145309317-10f67341-58c4-4555-9184-3ddea4ecbd6c.png)
 
 * Chocolate with NO custom packaging and no DiscountCard, but having the birthday
 ![image](https://user-images.githubusercontent.com/56044286/145309394-fddbf349-1698-4ab7-be2e-d2c4e8915491.png)
 
 * Candies with NO custom packaging, with DiscountCard 
+
 ![image](https://user-images.githubusercontent.com/56044286/145309542-02252005-c2c2-4293-9e78-ec073b71a59b.png)
 
 * Chocolate with NO custom packaging, NO DiscontCard, NO birthday (standard prices)
