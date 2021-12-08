@@ -10,7 +10,11 @@ public class Candy implements ISweet {
     private String name;
     private String company;
     private int sugar;
-    private double price;
+    private static double price;
+
+    public static double givePrice() {
+        return price;
+    }
 
     @Override
     public void setName(String name) {

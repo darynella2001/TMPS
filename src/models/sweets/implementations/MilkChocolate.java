@@ -9,7 +9,7 @@ public class MilkChocolate implements ISweet {
     private String name;
     private String company;
     private int sugar;
-    private double price;
+    private static double price;
 
     @Override
     public void setName(String name) {
@@ -46,11 +46,13 @@ public class MilkChocolate implements ISweet {
         return sugar;
     }
 
-    @Override
+
     public double getPrice() {
         return price;
     }
-
+    public static double givePrice(){
+        return price;
+    }
     public String getDetails(){
         return "Description: \033[3mPiece by piece delicious alpine milk chocolate!\033[0m";
     }

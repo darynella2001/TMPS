@@ -9,7 +9,9 @@ public class Lollipop implements ISweet {
     private String name;
     private String company;
     private int sugar;
-    private double price;
+    private static double price;
+
+
 
     @Override
     public void setName(String name) {
@@ -48,6 +50,9 @@ public class Lollipop implements ISweet {
 
     @Override
     public double getPrice() {
+        return price;
+    }
+    public static double givePrice() {
         return price;
     }
 

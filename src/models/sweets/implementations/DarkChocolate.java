@@ -9,7 +9,7 @@ public class DarkChocolate implements ISweet {
     private String name;
     private String company;
     private int sugar;
-    private double price;
+    private static double price;
 
     @Override
     public void setName(String name) {
@@ -46,6 +46,10 @@ public class DarkChocolate implements ISweet {
     }
 
     public double getPrice() {
+        return price;
+    }
+
+    public static double givePrice(){
         return price;
     }
 

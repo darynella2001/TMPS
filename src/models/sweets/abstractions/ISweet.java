@@ -9,5 +9,6 @@ public interface ISweet {
     void setSugar(int sugar);
     int getSugar();
     void setPrice(double price);
+
     double getPrice();
 }
