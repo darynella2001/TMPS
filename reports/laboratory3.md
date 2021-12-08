@@ -86,15 +86,20 @@ public class Context {
 ## Output
 Here you can see the output for different cases:
 * Chocolate with custom packaging and DiscountCard
+![image](https://user-images.githubusercontent.com/56044286/145309317-10f67341-58c4-4555-9184-3ddea4ecbd6c.png)
+
 * Chocolate with NO custom packaging and no DiscountCard, but having the birthday
-* Candies with custom packaging and NO birthday
-* Chocolate with NO custom packaging, NO DiscontCard, NO birthday
+![image](https://user-images.githubusercontent.com/56044286/145309394-fddbf349-1698-4ab7-be2e-d2c4e8915491.png)
+
+* Candies with NO custom packaging, with DiscountCard 
+![image](https://user-images.githubusercontent.com/56044286/145309542-02252005-c2c2-4293-9e78-ec073b71a59b.png)
+
+* Chocolate with NO custom packaging, NO DiscontCard, NO birthday (standard prices)
+![image](https://user-images.githubusercontent.com/56044286/145309622-a7ccd886-d613-4b6b-8cfe-b30bc6c10d41.png)
+
 
 ## Conclusions
 After studying all the theory and putting it into practice in this laboratory work, 
-I straighten my knowledge about Design Patterns, and namely about BDPs.
-
-
-In short, they focus on how classes and objects can be composed into larger structures
-and at the same time to keep these structures flexible and efficient. 
-Another challenge that I have faced was to respect the project structure, but from my point of view, I managed to do it not so bad.
+I straighten my knowledge about Design Patterns, and namely about BDPs. In short,
+behavioral design patterns are design patterns that identify common communication patterns between objects and realize these patterns. 
+By doing so, these patterns increase flexibility in carrying out this communication.
